@@ -144,8 +144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.794219,
-          43.624432
+          -79.79023178945438,
+          43.63563403979312
         ]
       },
       "properties": {
@@ -153,7 +153,7 @@
         "ServiceLanguage": "English",
         "LocationName": "Brampton Library South West Branch EarlyON",
         "FrenchLocationName": "Brampton Library South West Branch EarlyON",
-        "Description": "",
+        "Description": null,
         "StartDate": "2024/11/15",
         "EndDate": null,
         "ServiceSystemManagerName": "Region of Peel",
@@ -880,8 +880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.79678286,
-          43.72813937
+          -79.69398908760009,
+          43.79281800888517
         ]
       },
       "properties": {
@@ -926,8 +926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.64445663,
-          43.51664378
+          -79.7970431456507,
+          43.72862292308661
         ]
       },
       "properties": {
@@ -1064,8 +1064,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.71641726,
-          43.55980878
+          -79.64440420295301,
+          43.516734537190246
         ]
       },
       "properties": {
