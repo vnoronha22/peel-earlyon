@@ -52,52 +52,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.70376906,
-          43.70804541
-        ]
-      },
-      "properties": {
-        "Id": 1311,
-        "ServiceLanguage": "English",
-        "LocationName": "Aloma Crescent Public School EarlyON",
-        "FrenchLocationName": "Aloma Crescent Public School EarlyON",
-        "Description": null,
-        "StartDate": "2024/11/15",
-        "EndDate": "2025/01/06",
-        "ServiceSystemManagerName": "Region of Peel",
-        "Locationtype": "Centre",
-        "PreRegProgram": "No",
-        "LocationAdministratorEmail": "mnsearlyon@mnsinfo.org",
-        "IndigenousProgram": "No",
-        "FrenchProgram": "No",
-        "LocatedInSchool": "No",
-        "School": "",
-        "FullAddress": "57 Aloma Crescent ;  ; Brampton ; L6T 2N8 |",
-        "TypeOfHours": "Full-Time Hours",
-        "HoursOfOperation": "Monday:  9:30AM -  4:00PM | Tuesday:  9:30AM -  4:00PM | Wednesday:  9:30AM -  6:00PM | Thursday:  9:30AM -  4:00PM | Friday:  9:30AM - 12:00PM",
-        "VirtualLocation": null,
-        "VirtualURL": null,
-        "WebsiteName": null,
-        "WebsiteDescription": null,
-        "WebsiteServices": "",
-        "LocationPhone": "",
-        "LocationPhoneTTY": "",
-        "Email": "mnsearlyon@mnsinfo.org",
-        "WebsiteURL": "https://infopeel.ca/eon/",
-        "Telephone": "(905) 791-9650",
-        "Extension": "",
-        "CaseworkerFirstName": "Denise",
-        "CaseworkerLastName": "Plinton",
-        "CaseworkerJobTitle": "Early Years System Advisor",
-        "CaseworkerEmail": "Denise.Plinton@peelregion.ca",
-        "CaseworkerPhone": "(416) 450-5093"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -80.06414697,
           43.85880192
         ]
